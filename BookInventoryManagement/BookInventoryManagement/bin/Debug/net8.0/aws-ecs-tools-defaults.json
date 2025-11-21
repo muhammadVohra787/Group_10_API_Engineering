@@ -1,0 +1,9 @@
+
+{
+    "region" : "ca-central-1",
+    "profile" : "IAMlab3",
+    "configuration" : "Release",
+    "image-tag"     : "bookinventorymanagement:latest",
+    "docker-build-working-dir" : "",
+    "vstoolkit-deployment-mode" : "PushOnly"
+}

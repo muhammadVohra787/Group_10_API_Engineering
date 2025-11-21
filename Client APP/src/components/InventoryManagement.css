@@ -1,0 +1,108 @@
+/* InventoryManagement.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .inventory-management-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .navbar-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .content-wrapper {
+    padding: 20px;
+  }
+  
+  .inventory-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .inventory-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-add {
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+  }
+  
+  .btn-add:hover {
+    background-color: #218838;
+  }
+  
+  .btn-delete {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .btn-delete:hover {
+    background-color: #c82333;
+  }
+  
+  .btn-edit {
+    background-color: #ffc107;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .btn-edit:hover {
+    background-color: #e0a800;
+  }
+  
