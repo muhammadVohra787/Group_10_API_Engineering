@@ -69,19 +69,18 @@
 //   patchInventory,
 // };
 
-
 // https://34.110.214.123.nip.io/proxy4grp10sec003/api/books?apikey=4rxbLeqJF1gcGSxUhYPBzLgMsP6wm6jYnLTRYRJQpdcJnAuR
 
 import axios from "axios";
 
-const API_URL = "https://34.110.214.123.nip.io/proxy4grp10sec003/api/Inventory"; 
+const API_URL = "https://34.110.214.123.nip.io/proxy4grp10sec003/api/Inventory";
 const API_KEY = "4rxbLeqJF1gcGSxUhYPBzLgMsP6wm6jYnLTRYRJQpdcJnAuR"; // << add your key here
 
 // Shared axios instance → automatically adds ?apikey=XYZ
 const api = axios.create({
   baseURL: API_URL,
-  params: {
-    apikey: API_KEY,
+  headers: {
+    apikey: API_KEY, // => ?apikey=YOUR_API_KEY_HERE on every request
   },
 });
 
