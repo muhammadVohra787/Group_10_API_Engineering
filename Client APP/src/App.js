@@ -6,18 +6,18 @@ import AddInventory from "./components/AddInventory";
 import EditInventory from "./components/EditInventory";
 import AddBook from "./components/AddBook";
 import EditBook from "./components/EditBook";
-import Login from "./components/Login";
-import Register from "./components/Register";
 // import ProtectedRoute from './components/ProtectedRoute';  // Import the ProtectedRoute component
 
 // 👉 Import Book Details component
 import BookDetailsComponent from "./components/BookDetailsComponent";
+import HomePage from "./components/HomePage";
 
 const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<BooksManagement />} />
+        {/* <Route path="/" element={<BooksManagement />} /> */}
+        <Route path="/" element={<HomePage />} />
         <Route path="/books" element={<BooksManagement />} />
         <Route path="/inventory" element={<InventoryManagement />} />
         <Route path="/add-inventory" element={<AddInventory />} />
