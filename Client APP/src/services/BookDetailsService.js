@@ -87,20 +87,20 @@
 //   deleteBookDetail,
 // };
 
-
 // https://34.110.214.123.nip.io/proxy4grp10sec003/api/books?apikey=4rxbLeqJF1gcGSxUhYPBzLgMsP6wm6jYnLTRYRJQpdcJnAuR
 
 import axios from "axios";
 
-const API_URL = "https://34.110.214.123.nip.io/proxy4grp10sec003/api/BookDetails"; 
+const API_URL =
+  "https://34.110.214.123.nip.io/proxy4grp10sec003/api/BookDetails";
 const API_KEY = "4rxbLeqJF1gcGSxUhYPBzLgMsP6wm6jYnLTRYRJQpdcJnAuR";
 
 // Create axios instance with base settings
 const api = axios.create({
   baseURL: API_URL,
-  params: {
-    apikey: API_KEY // automatically appended ?apikey=XYZ
-  }
+  headers: {
+    apikey: API_KEY, // => ?apikey=YOUR_API_KEY_HERE on every request
+  },
 });
 
 // ---------------- CRUD METHODS ----------------
