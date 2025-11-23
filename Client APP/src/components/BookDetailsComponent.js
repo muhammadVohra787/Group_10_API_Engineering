@@ -22,6 +22,7 @@ const BookDetailsComponent = () => {
   const [books, setBooks] = useState([]);
   const [formData, setFormData] = useState(emptyForm);
   const [editingId, setEditingId] = useState(null);
+  const [originalDetail, setOriginalDetail] = useState(null); // track original for PATCH
   const [loading, setLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState("");
   const [toast, setToast] = useState(null);
@@ -66,6 +67,7 @@ const BookDetailsComponent = () => {
 
     if (!parsedId) {
       setEditingId(null);
+      setOriginalDetail(null);
       setFormData({ ...emptyForm, bookId: "" });
       return;
     }
@@ -76,6 +78,7 @@ const BookDetailsComponent = () => {
 
     if (existingDetail) {
       setEditingId(existingDetail.id ?? null);
+      setOriginalDetail(existingDetail); // keep a copy for diffing
       setFormData({
         bookId: parsedId.toString(),
         genre: existingDetail.genre ?? "",
@@ -86,6 +89,7 @@ const BookDetailsComponent = () => {
       });
     } else {
       setEditingId(null);
+      setOriginalDetail(null);
       setFormData({ ...emptyForm, bookId: parsedId.toString() });
     }
   };
@@ -113,6 +117,7 @@ const BookDetailsComponent = () => {
   const resetForm = () => {
     setFormData(emptyForm);
     setEditingId(null);
+    setOriginalDetail(null);
     setErrorMsg("");
   };
 
@@ -131,10 +136,54 @@ const BookDetailsComponent = () => {
         coverImageUrl: formData.coverImageUrl || null,
       };
 
+      // If we're editing, decide between PUT vs PATCH
       if (editingId) {
-        await BookDetailsService.updateBookDetail(editingId, payload);
-        showToast("Book detail updated.");
+        // Build a JSON Patch document by comparing to originalDetail
+        const patchOps = [];
+        if (originalDetail) {
+          const fields = [
+            "genre",
+            "language",
+            "pageCount",
+            "format",
+            "coverImageUrl",
+          ];
+
+          fields.forEach((field) => {
+            const originalValue =
+              originalDetail[field] === null ||
+              originalDetail[field] === undefined
+                ? ""
+                : String(originalDetail[field]);
+            const currentValue =
+              payload[field] === null || payload[field] === undefined
+                ? ""
+                : String(payload[field]);
+
+            if (originalValue !== currentValue) {
+              patchOps.push({
+                op: "replace",
+                path: `/${field}`,
+                value: payload[field],
+              });
+            }
+          });
+        }
+
+        if (patchOps.length === 0) {
+          // nothing changed
+          showToast("No changes detected.", "error");
+        } else if (patchOps.length === 1) {
+          // exactly one field changed → demonstrate PATCH
+          await BookDetailsService.patchBookDetail(editingId, patchOps);
+          showToast("Book detail updated via PATCH (partial).");
+        } else {
+          // multiple fields changed → demonstrate PUT
+          await BookDetailsService.updateBookDetail(editingId, payload);
+          showToast("Book detail updated via PUT (full).");
+        }
       } else {
+        // Create always uses POST
         await BookDetailsService.createBookDetail(payload);
         showToast("Book detail added.");
       }
@@ -152,6 +201,7 @@ const BookDetailsComponent = () => {
 
   const handleEdit = (detail) => {
     setEditingId(detail.id);
+    setOriginalDetail(detail); // capture original for diffing/PATCH logic
     setFormData({
       bookId: detail.bookId?.toString() ?? "",
       genre: detail.genre ?? "",
