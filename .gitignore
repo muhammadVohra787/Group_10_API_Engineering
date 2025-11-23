@@ -1,0 +1,14 @@
+# .NET / C#
+BookInventoryManagement/bin/
+BookInventoryManagement/obj/
+BookInventoryManagement/*.user
+BookInventoryManagement/*.suo
+BookInventoryManagement/*.vs/
+BookInventoryManagement/.vs/
+
+# Build artifacts
+*.dll
+*.exe
+
+# Publish folder
+BookInventoryManagement/publish/
