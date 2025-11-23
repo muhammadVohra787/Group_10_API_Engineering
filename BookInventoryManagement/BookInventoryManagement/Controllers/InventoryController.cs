@@ -23,7 +23,6 @@ namespace BookInventoryManagement.Controllers
 
         // GET: api/Inventory
         [HttpGet]
-        //[Authorize(Roles = "Admin, User")]
         public async Task<ActionResult<IEnumerable<InventoryDTO>>> GetAllInventory()
         {
             var inventory = await _inventoryRepository.GetAllInventoryAsync();
@@ -47,7 +46,6 @@ namespace BookInventoryManagement.Controllers
 
         // POST: api/Inventory
         [HttpPost]
-       // [Authorize(Roles = "Admin")]
         public async Task<ActionResult<InventoryDTO>> CreateInventory(CreateInventoryDTO createInventoryDTO)
         {
             var inventory = _mapper.Map<Inventory>(createInventoryDTO);
@@ -102,7 +100,6 @@ namespace BookInventoryManagement.Controllers
                 Price = inventory.Price
             };
 
-            // Apply the patch document to the DTO
             patchDoc.ApplyTo(inventoryPatchDTO, ModelState);
 
             if (!ModelState.IsValid)

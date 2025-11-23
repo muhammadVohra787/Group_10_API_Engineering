@@ -1,24 +1,30 @@
 using BookInventoryManagement.Data;
 using BookInventoryManagement.Repositories;
+using BookInventoryManagement.Scripts;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var ConnectionString = builder.Configuration.GetConnectionString("Default");
+if (!builder.Environment.IsDevelopment())
+{
+    ConnectionString= builder.Configuration.GetConnectionString("Production");
+}
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("BookInventoryDB")));
+options.UseSqlServer(ConnectionString));
 
 builder.Services.AddControllers().AddNewtonsoftJson();
 
 builder.Services.AddAuthentication(options =>
 {
-    options.DefaultAuthenticateScheme = "Bearer"; // Or CookieAuthenticationDefaults.AuthenticationScheme
+    options.DefaultAuthenticateScheme = "Bearer";
     options.DefaultChallengeScheme = "Bearer";
 });
 
 // Add CORS policy to allow any origin
 builder.Services.AddCors(options =>
 {
+    // CORS managed by APIGEE in production, allowing all origins here for development purposes
     options.AddPolicy("CorsPolicy", policy =>
     {
         policy
@@ -31,6 +37,9 @@ builder.Services.AddCors(options =>
 builder.Services.AddScoped<IInventoryRepository, InventoryRepository>();
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<IBookDetailsRepository, BookDetailsRepository>();
+
+
+
 // Add AutoMapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
@@ -59,11 +68,22 @@ app.UseCors("CorsPolicy");
 
 app.MapControllers();
 
-// Apply pending migrations at startup
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     db.Database.Migrate();
+
+    try
+    {
+        await DataSeeder.SeedAsync(db);
+    }
+    catch (Exception ex)
+    {
+        var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred during database seeding");
+    }
 }
+
+
 
 app.Run();

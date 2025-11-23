@@ -968,10 +968,6 @@
             "type": "integer",
             "format": "int32"
           },
-          "bookTitle": {
-            "type": "string",
-            "nullable": true
-          },
           "quantity": {
             "type": "integer",
             "format": "int32"

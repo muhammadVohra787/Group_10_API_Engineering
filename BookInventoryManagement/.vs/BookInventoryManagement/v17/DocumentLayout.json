@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "E:\\C#\\app\\app\\BookInventoryManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\scripts\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\scripts\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\bookinventorymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\bookinventorymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\bookdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\repositories\\bookdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\controllers\\bookdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\controllers\\bookdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\controllers\\bookdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\controllers\\bookdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\mappings\\inventoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,48 +67,16 @@
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\dtos\\inventorypatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\dtos\\inventorypatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\aws-ecs-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\aws-ecs-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\migrations\\20251118214501_removecomputedfromtimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\migrations\\20251118214501_removecomputedfromtimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\bookdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\repositories\\bookdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.BookDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -90,14 +98,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\migrations\\20251118194032_addbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\migrations\\20251118194032_addbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,14 +122,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\bookinventorymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\bookinventorymanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|e:\\c#\\app\\app\\bookinventorymanagement\\bookinventorymanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D353FCD3-59FA-4971-B8E4-08ED55F330B6}|BookInventoryManagement\\BookInventoryManagement.csproj|solutionrelative:bookinventorymanagement\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\profa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -185,7 +177,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -193,115 +185,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Scripts\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Scripts\\DataSeeder.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Scripts\\DataSeeder.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Scripts\\DataSeeder.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:00:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\Inventory.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Inventory.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:58:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\Book.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:38:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\BookDetails.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\BookDetails.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\BookDetails.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Models\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:24:47.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookDetailsRepository.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:39:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:09:08.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "BookInventoryManagement.http",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\BookInventoryManagement.http",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\BookInventoryManagement.http",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\BookInventoryManagement.http",
+              "RelativeToolTip": "BookInventoryManagement\\BookInventoryManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-17T20:14:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Dockerfile",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Dockerfile",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Dockerfile",
+              "RelativeToolTip": "BookInventoryManagement\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-01T04:34:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "BookInventoryManagement\\appsettings.json",
               "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\appsettings.json",
               "RelativeToolTip": "BookInventoryManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-27T03:22:30.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Program.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Program.cs",
               "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Program.cs",
               "RelativeToolTip": "BookInventoryManagement\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T20:27:46.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Controllers\\BooksController.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAwFMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:06:54.429Z",
+              "DocumentIndex": 0,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\libman.json",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\libman.json",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\libman.json",
+              "RelativeToolTip": "BookInventoryManagement\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T21:00:09.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "BookDetailsController.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BookDetailsController.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Controllers\\BookDetailsController.cs",
               "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BookDetailsController.cs",
               "RelativeToolTip": "BookInventoryManagement\\Controllers\\BookDetailsController.cs",
-              "ViewState": "AgIAABYAAAAAMzMzMzMwwFwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T21:02:36.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookInventoryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:06:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "InventoryController.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Controllers\\InventoryController.cs",
               "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Controllers\\InventoryController.cs",
               "RelativeToolTip": "BookInventoryManagement\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAuwDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T23:10:20.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventoryPatchDTO.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
-              "RelativeToolTip": "BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T23:00:47.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InventoryDTO.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryDTO.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\InventoryDTO.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryDTO.cs",
-              "RelativeToolTip": "BookInventoryManagement\\DTOs\\InventoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T21:58:06.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\Inventory.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Inventory.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T21:58:41.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "InventoryProfile.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Mappings\\InventoryProfile.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Mappings\\InventoryProfile.cs",
@@ -309,48 +375,35 @@
               "RelativeToolTip": "BookInventoryManagement\\Mappings\\InventoryProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T22:01:08.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T22:01:08.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "aws-ecs-tools-defaults.json",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\aws-ecs-tools-defaults.json",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\aws-ecs-tools-defaults.json",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\aws-ecs-tools-defaults.json",
-              "RelativeToolTip": "BookInventoryManagement\\aws-ecs-tools-defaults.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T20:48:59.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Services\\IBookService.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Services\\IBookService.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Services\\IBookService.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Services\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "InventoryDTO.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryDTO.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\InventoryDTO.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryDTO.cs",
+              "RelativeToolTip": "BookInventoryManagement\\DTOs\\InventoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:09:37.305Z"
+              "WhenOpened": "2024-11-25T21:58:06.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Services\\BookService.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Services\\BookService.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Services\\BookService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "InventoryPatchDTO.cs",
+              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
+              "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
+              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
+              "RelativeToolTip": "BookInventoryManagement\\DTOs\\InventoryPatchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:09:53.575Z"
+              "WhenOpened": "2024-11-27T23:00:47.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Mappings\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Mappings\\AutoMapperProfile.cs",
@@ -362,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20251118214501_RemoveComputedFromTimestamps.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Migrations\\20251118214501_RemoveComputedFromTimestamps.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Migrations\\20251118214501_RemoveComputedFromTimestamps.cs",
@@ -374,19 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookDetails.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\BookDetails.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\BookDetails.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\BookDetails.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Models\\BookDetails.cs",
-              "ViewState": "AgIAABMAAADQzMzMzMw5wCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:24:47.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "20251119175350_Removed-Users.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Migrations\\20251119175350_Removed-Users.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Migrations\\20251119175350_Removed-Users.cs",
@@ -398,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Data\\ApplicationDbContext.cs",
@@ -410,19 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Dockerfile",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Dockerfile",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Dockerfile",
-              "RelativeToolTip": "BookInventoryManagement\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-01T04:34:47.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CreateBookDetailsDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\CreateBookDetailsDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\CreateBookDetailsDTO.cs",
@@ -434,19 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BookDetailsRepository.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Repositories\\BookDetailsRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:39:09.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "dbo.BookDetails.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.BookDetails.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.BookDetails.sql",
@@ -455,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "dbo.Inventories.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.Inventories.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.Inventories.sql",
@@ -464,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "dbo.Books.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.Books.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PodcastDB2/True/SqlTable/dbo.Books.sql",
@@ -473,19 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Book.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Models\\Book.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Models\\Book.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:38:29.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "20251118194151_AddBookDetailsErrorFix.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Migrations\\20251118194151_AddBookDetailsErrorFix.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Migrations\\20251118194151_AddBookDetailsErrorFix.cs",
@@ -497,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20251118194032_AddBookDetails.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Migrations\\20251118194032_AddBookDetails.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Migrations\\20251118194032_AddBookDetails.cs",
@@ -509,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "20251118195045_UpdateModelsWithAnnotations.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Migrations\\20251118195045_UpdateModelsWithAnnotations.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Migrations\\20251118195045_UpdateModelsWithAnnotations.cs",
@@ -542,18 +547,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAApwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T20:08:52.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\Repositories\\BookRepository.cs",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "BookInventoryManagement\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:09:08.117Z"
             },
             {
               "$type": "Document",
@@ -606,30 +599,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "BookInventoryManagement.http",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\BookInventoryManagement.http",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\BookInventoryManagement.http",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\BookInventoryManagement.http",
-              "RelativeToolTip": "BookInventoryManagement\\BookInventoryManagement.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-17T20:14:39.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "libman.json",
-              "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\libman.json",
-              "RelativeDocumentMoniker": "BookInventoryManagement\\libman.json",
-              "ToolTip": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\libman.json",
-              "RelativeToolTip": "BookInventoryManagement\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T21:00:09.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\profa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
               "ToolTip": "C:\\Users\\profa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
@@ -639,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BookInventoryManagement\\Properties\\launchSettings.json",
@@ -651,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "UpdateBookDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\UpdateBookDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\UpdateBookDTO.cs",
@@ -663,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "CreateBookDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\CreateBookDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\CreateBookDTO.cs",
@@ -675,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "BookPatchDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\BookPatchDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\BookPatchDTO.cs",
@@ -687,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\BookDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\BookDTO.cs",
@@ -699,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "CreateInventoryDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\CreateInventoryDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\CreateInventoryDTO.cs",
@@ -711,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookInventoryDB/True/SqlTable/dbo.Users.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookInventoryDB/True/SqlTable/dbo.Users.sql",
@@ -720,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "UpdateInventoryDTO.cs",
               "DocumentMoniker": "E:\\C#\\app\\app\\BookInventoryManagement\\BookInventoryManagement\\DTOs\\UpdateInventoryDTO.cs",
               "RelativeDocumentMoniker": "BookInventoryManagement\\DTOs\\UpdateInventoryDTO.cs",

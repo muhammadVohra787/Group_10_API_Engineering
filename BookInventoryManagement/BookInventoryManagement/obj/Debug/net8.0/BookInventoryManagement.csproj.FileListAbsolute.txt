@@ -708,9 +708,8 @@ C:\Users\saina\Downloads\Centennial\Sem4\API-Programming\app\BookInventoryManage
 C:\Users\saina\Downloads\Centennial\Sem4\API-Programming\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\BookInventoryManagement.genruntimeconfig.cache
 C:\Users\saina\Downloads\Centennial\Sem4\API-Programming\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\ref\BookInventoryManagement.dll
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\appsettings.Development.json
-E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\aws-ecs-tools-defaults.json
-E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\libman.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\appsettings.json
+E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\libman.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\BookInventoryManagement.staticwebassets.endpoints.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\BookInventoryManagement.exe
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\bin\Debug\net8.0\BookInventoryManagement.deps.json
@@ -870,6 +869,7 @@ E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\B
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\BookInventoryManagement.csproj.CoreCompileInputs.cache
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\BookInventoryManagement.MvcApplicationPartsAssemblyInfo.cs
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\BookInventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\BookInventoryManagement.sourcelink.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\C#\app\app\BookInventoryManagement\BookInventoryManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
